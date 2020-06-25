@@ -10,36 +10,33 @@
     <h2>Vim mode at Total Commander.</h2>
     <p>
         Download 0.5.5en beta version. It contains a compiled script in the form of an exe file. <br>  
-        Notice: I promise that all exe files are clean, but compiled AHK scripts trigger antiviruses so you might have to add an exception<br>
+        Notice: I promise that all exe files here are clean, but compiled AHK scripts trigger antiviruses so you might have to add an exception <br>  
     
         2020/06/25<br>
       <a href="ViATc-0.5.5en_beta6_executable.zip">ViATc-0.5.5en_beta6_executable.zip</a><br>
-      <br><br><br>
+      <br>
 
         2020/06/25<br>
       <a href="ViATc-0.5.5en_beta5_executable.zip">ViATc-0.5.5en_beta5_executable.zip</a><br>
-      <br><br><br>
+      <br>
 
         2020/06/22<br>
       <a href="ViATc-0.5.5en_beta4_executable.zip">ViATc-0.5.5en_beta4_executable.zip</a><br>
-      <br><br><br>
+      <br>
 j
         2020/06/19<br>
       <a href="ViATc-0.5.5en_beta2_executable.zip">ViATc-0.5.5en_beta2_executable.zip</a><br>
-      <br><br><br>
+      <br>
 
 
         2020/06/18<br>
         In this version the disable shortcut is not working, but disabling works in the tray icon menu.<br>
       <a href="ViATc-0.5.5en_beta1_executable.zip">ViATc-0.5.5en_beta1_executable.zip</a><br>
-      <br><br><br>
+      <br>
 
        2017/06/22<br>
        Download an old 0.5.3en version. It contains compiled script in the form of an exe file. <br>  
-       <a href="ViATc-0.5.3en_executable.zip">ViATc-0.5.3en_executable.zip</a><br>  
-<br>  
-<br>  
-
+       <a href="ViATc-0.5.3en_executable.zip">ViATc-0.5.3en_executable.zip</a> <br>  <br>  
     
        Any compiled executable here most likely is older than the current script version. <br>  
 
