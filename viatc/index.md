@@ -10,8 +10,12 @@
     <h2>Vim mode at Total Commander.</h2>
     <p>
         Download 0.5.5en beta version. It contains a compiled script in the form of an exe file. <br>  
-        Notice: I promise that all exe files here are clean, but compiled AHK scripts trigger antiviruses so you might have to add an exception <br>  
+        Notice: I promise that all exe files here are clean, but compiled AHK scripts trigger antiviruses so you might have to add an exception <br><br>  
     
+        2020/06/27<br>
+      <a href="ViATc-0.5.5en_beta7_executable.zip">ViATc-0.5.5en_beta7_executable.zip</a><br>
+      <br>
+
         2020/06/25<br>
       <a href="ViATc-0.5.5en_beta6_executable.zip">ViATc-0.5.5en_beta6_executable.zip</a><br>
       <br>
