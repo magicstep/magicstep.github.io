@@ -16,6 +16,7 @@
       <a href="ViATc-0.5.5en_beta7_executable.zip">ViATc-0.5.5en_beta7_executable.zip</a><br>
       <br>
 
+<!-- 
         2020/06/25<br>
       <a href="ViATc-0.5.5en_beta6_executable.zip">ViATc-0.5.5en_beta6_executable.zip</a><br>
       <br>
@@ -41,6 +42,7 @@
        2017/06/22<br>
        Download an old 0.5.3en version. It contains compiled script in the form of an exe file. <br>  
        <a href="ViATc-0.5.3en_executable.zip">ViATc-0.5.3en_executable.zip</a> <br>  <br>  
+ -->    
     
        Any compiled executable here most likely is older than the current script version. <br>  
 
