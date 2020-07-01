@@ -27,7 +27,7 @@
         2020/06/22<br>
       <a href="ViATc-0.5.5en_beta4_executable.zip">ViATc-0.5.5en_beta4_executable.zip</a><br>
       <br>
-j
+
         2020/06/19<br>
       <a href="ViATc-0.5.5en_beta2_executable.zip">ViATc-0.5.5en_beta2_executable.zip</a><br>
       <br>
@@ -47,7 +47,7 @@ j
   You can run the script if you have Autohotkey installed. Download and install Autohotkey, it is powerful for many purposes. 
   <a href="https://autohotkey.com">https://autohotkey.com</a>  <br>  
 
-  To get the script download zip file from 
+  To get the latest script download zip file from 
   <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>,
   extract and you wil see the ahk script. To run it double-click viatc-0.5.5en.ahk
 <br>  
