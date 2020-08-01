@@ -8,7 +8,9 @@
 <body>
     <h1>ViATc-English </h1>
     <h2>Vim mode at Total Commander.</h2>
+    <img src="viatc=Vim(AHK)TC.png" alt="image from https://www.itqiyi.com/archives/2073" width="" height="" border="0"><small>credit: https://www.itqiyi.com/archives/2073</small>
     <p>
+        <a href="README.md">Full decsription</a>     
         Download 0.5.5en beta version. It contains a compiled script in the form of an exe file. <br>  
         Notice: I promise that all exe files here are clean, but compiled AHK scripts trigger antiviruses so you might have to add an exception <br><br>  
     
