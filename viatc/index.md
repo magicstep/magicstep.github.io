@@ -14,7 +14,7 @@
 
 <p>
      <!--<a href="/README.md">Full description</a>     -->
-<a href="readme/">Full description</a><br>      
+<a href="readme/">Full description</a> - read about the installation process and a lot of helpful info<br>      
 <h2>Download</h2>
     Download 0.5.5en beta version. It contains a compiled script in the form of an exe file. <br>  
     Notice: I promise that all exe files here are clean, but compiled AHK scripts trigger antiviruses so you might have to add an exception <br><br>  
