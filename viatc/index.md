@@ -21,9 +21,9 @@ Download
 <a href="ViATc-0.5.5en_beta10_executable.zip">ViATc-0.5.5en_beta10_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
-To get the most recent script (without exe), download https://github.com/magicstep/ViATc-English/archive/master.zip
+To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a> 
 
-Old versions at https://magicstep.github.io/viatc/old.html
+Old versions at <a href="https://magicstep.github.io/viatc/old.html">https://magicstep.github.io/viatc/old.html</a> 
 
 Installation
 ============
@@ -69,7 +69,7 @@ Capslock = Esc
 
 Author
 ======
-- Author of the original Chinese version is linxinhong https://github.com/linxinhong
-- Translator and maintainer of the English version is magicstep https://github.com/magicstep  
+- Author of the original Chinese version is linxinhong <a href="https://github.com/linxinhong">https://github.com/linxinhong</a> 
+- Translator and maintainer of the English version is magicstep <a href="https://github.com/magicstep">https://github.com/magicstep</a> 
   Alternatively you can contact me with the same nickname @gmail.com
-- More info about the project at https://github.com/magicstep/ViATc-English
+- More info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a> 
