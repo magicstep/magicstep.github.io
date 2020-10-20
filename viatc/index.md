@@ -1,10 +1,10 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2020/08/03  version 0.5.5en beta 10  
+2020/10/20  version 0.5.5en beta 15  
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
-This software works on Windows and only as an addition to "Total Commander"  :floppy_disk: - the greatest file manager :100: (keyboard friendly, two panels, advanced search, comparator, multi-rename, FTP, plugins) get it from www.ghisler.com  
+This software works on Windows and only as an addition to "Total Commander" - the greatest file manager (keyboard friendly, two panels, advanced search, comparator, multi-rename, FTP, plugins) get it from www.ghisler.com  
 ViATc tries to resemble the work-flow of Vim and web browser plugins like Vimium or better yet SurfingKeys.
 
 What ViATc does to Total Commander (called later TC):
@@ -17,8 +17,8 @@ What ViATc does to Total Commander (called later TC):
 
 Download
 ========
-2020/08/03  version 0.5.5en beta 10  
-<a href="ViATc-0.5.5en_beta10_executable.zip">ViATc-0.5.5en_beta10_executable.zip</a><br>
+2020/10/20  version 0.5.5en beta 15  
+<a href="ViATc-0.5.5en_beta15_executable.zip">ViATc-0.5.5en_beta15_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a> 
