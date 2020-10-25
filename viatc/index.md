@@ -72,4 +72,7 @@ Author
 - Author of the original Chinese version is linxinhong <a href="https://github.com/linxinhong">https://github.com/linxinhong</a> 
 - Translator and maintainer of the English version is magicstep <a href="https://github.com/magicstep">https://github.com/magicstep</a> 
   Alternatively you can contact me with the same nickname @gmail.com
-- More info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a> 
+- More info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
+
+
+<sub> My personal blog <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> 

@@ -1,0 +1,186 @@
+; Settings for ViATc - Vim mode at Total Commander.  
+; 2020/10/24  version 0.5.5en beta 17
+; You can edit this file, but first make a backup. 
+
+[Configuration]
+; Vim=1 Enable ViATc mode at start
+; Vim=0 All is disabled till first Esc
+Vim=1
+Toggle=<lwin>F
+GlobalTogg=1
+Suspend=<alt>`
+GlobalSusp=0
+TrayIcon=1
+Service=1
+Startup=1
+; Max repeat for commands e.g. 5j
+MaxCount=999
+; GroupWarn means Combo Tooltips
+GroupWarn=1
+Transparent=1
+TranspHelp=0
+TranspVar=200
+GroupInfo=1
+; see history_of_rename.txt
+HistoryOfRename=1
+IsCapslockAsEscape=1
+
+[Paths]
+TCPath=C:\Program Files\totalcmd\TOTALCMD64.EXE
+;TCPath=C:\Program Files (x86)\totalcmd\TOTALCMD.EXE
+EditorPath=C:\Program Files (x86)\Vim\vim82\gvim.exe
+;EditorPath=C:\Program Files (x86)\Notepad++\notepad++.exe
+EditorArguments= -p --remote-tab-silent     
+
+[FancyVimRename]
+;This is a fancy rename in a separate mini window
+;This seems to work only for the 64bit TC, not for 32bit
+;Enabled=0 normal TC rename
+;Enabled=1 fancy ViATc rename
+Enabled=0
+;Mode=0 start fancy rename in Insert mode,   
+;Mode=1 start fancy rename in Vim mode
+Mode=0
+;UnselectExt=0 start fancy rename with whole filename selected
+;UnselectExt=1 start fancy rename with extension unselected
+UnselectExt=1
+
+[SearchEngine]
+Default=1
+1=https://www.google.com/search?q={%1}
+2=https://duckduckgo.com/html?q={%1}
+3=https://www.youtube.com/results?search_query={%1}
+4=https://www.bing.com/search?q={%1}
+5=https://translate.google.com/?hl=en&op=translate&sl=auto&tl=en&text={%1}
+
+[Other]
+; it seems LnkToDesktop doesn't work
+LnkToDesktop=1
+
+[GlobalHotkey]
+<Ctrl>|=<ReloadVIATC>
+<Ctrl>]=<ReloadVIATC>
+<LWin>u=<ReloadVIATC>
+<LWin>h=<Help>
+<LWin>o=<Setting>
+
+[Hotkey]
+;<Ctrl>]=<CapsLock>
+;<Ctrl>h=<TransferLeft>
+;<ctrl>l=<TransferRight>
+;<ctrl>l=<ReloadVIATC>
+<Shift>,=<GotoPrevSelected>
+<Shift>.=<GotoNextSelected>
+<Shift>==<SELECTFILES>
+;<Shift>a=<SelectBoth>
+;<Shift>b=<CreateShortcut>
+<Shift>i=<MatchSrc>
+<Shift>d=<azHistory>
+<Shift>f=<FtpDisconnect>
+<Shift>w=<Properties>
+<Shift>y=<MoveOnly>
+<Shift>z=<ShowHint>
+<Shift>m=<Half>
+<shift>x=<CloseAllTabs>
+`=<CompareDirs>
+~=<TCFullScreen>
+\=<Hint>
+_=<Transparent>
+h=<SwitchToPreviousTab>
+l=<SwitchToNextTab>
+;y=<Copy>
+;<Shift>b=<50Percent>
+;<Shift>'=<ForceDel>
+;<Shift>m=<PageUp>
+;<Shift>q=<ContextMenu>
+;b=<100Percent>
+;f=<ShowQuickSearch>
+; to map 'i' to 'Enter' write:  i=<Return>
+;n=<MkDir>
+;q=<Edit>
+;w=<List>
+;y=<copyOtherpanel>
+;y=<CopySamepanel>
+<Lwin>[=<ReloadVIATC>
+<LWin>]=<ReloadVIATC>
+<Alt>0=<ReloadVIATC>
+;<Ctrl>.=<ReloadVIATC>
+<Ctrl>,=<ListMapKey>
+
+
+[GroupKey]
+; ------ Combo keys
+,y=<CopySamepanel>
+,h=<azHistory>
+,z=<DirectoryHistory>
+,i=<ToggleLockDcaCurrentTab>
+,b=<Keyboard>
+,m=<ListMarksTooltip>
+,:=<azCmdHistory>
+,h=<azCmdHistory>
+
+,,=<OpenDrives>
+,c=<OpenControls>
+,d=<OpenDesktop>
+,f=<OpenFonts>
+,j=<GotoNextDrive>
+,k=<GotoPreviousDrive>
+,n=<OpenNetwork>
+,p=<OpenPrinters>
+,r=<OpenRecycled>
+<Shift>sa=<SrcAllFiles>
+<Shift>se=<SrcExecs>
+<Shift>ss=<ShowOnlySelected>
+<Shift>su=<SrcUserDef>
+aa=<SrcAllFiles>
+;ac=<CapsLock>
+af=<SaveDetailsToFileW>
+ah=<Help>
+am=<ShowHint>
+an=<CreateNewFile>
+ao=<ViATcOff>
+aq=<QuitViATc>
+ar=<ReloadVIATC>
+as=<Setting>
+at=<AlwayOnTop>
+ca=<CapsLock>
+cb=(C:\Progs\clipbrd.exe)
+cc=<Delete>
+cd=<Decode>
+ce=<Encode>
+cf=<ForceDel>
+cr=(c:\Windows\regedit.exe)
+cs=<CountDirContent>
+ec=<IntCompareFilesByContent>
+ef=<Edit>
+eh=<SwitchHidSys>
+ep=<EditPath>
+gc=<CopyOtherpanel>
+gf=<GoToFirstFile>
+gm=<RenMov>
+go=<Internetsearch>
+si=<Internetsearch>
+sm=<ListMapKey>
+
+[TemplateList]
+; The name of TemplateList in older versions was [ShellNew]
+; To add a template: 
+; 1. Put a TC line-cursor on a file that will be duplicated
+; 2. Press a then n  - this will invoke <CreateNewFile> menu
+; 3. From the menu select "Add to new template (X)"
+;    The file will be copied into Templates folder in Viatc
+; 
+; To use a template:
+; 1. Invoke <CreateNewFile> menu by pressing a then n  
+; 2. Chose a template from the list, it will be used to create
+;    a new file in the current folder location
+; 3. Rename if needed
+
+; (description)\file.ext
+1=(md with info)\README.md
+2=(ini file for settings)\viatc.ini
+3=(html5)\index.html
+4=(ahk)\Template.ahk
+5=(au3 AutoIT)\Template.au3
+6=(odt empty)\document.odt
+7=(odt document with header)\document with header.odt
