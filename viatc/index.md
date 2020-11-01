@@ -1,7 +1,7 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2020/10/30  version 0.5.5en beta 19  
+2020/11/01  version 0.5.5en beta 20  
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
 This software works on Windows and only as an addition to "Total Commander" - the greatest file manager (keyboard friendly, two panels, advanced search, comparator, multi-rename, FTP, plugins) get it from <a href="www.ghisler.com">ghisler.com</a>
@@ -17,8 +17,8 @@ What ViATc does to Total Commander (called later TC):
 
 Download
 ========
-2020/10/24  version 0.5.5en beta 17  
-<a href="ViATc-0.5.5en_beta17_executable.zip">ViATc-0.5.5en_beta17_executable.zip</a><br>
+2020/11/01  version 0.5.5en beta 20  
+<a href="ViATc-0.5.5en_beta20_executable.zip">ViATc-0.5.5en_beta20_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a> 
