@@ -1,7 +1,7 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2020/11/01  version 0.5.5en beta 20  
+2020/11/02  version 0.5.5en beta 21  
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
 This software works on Windows and only as an addition to "Total Commander" - the greatest file manager (keyboard friendly, two panels, advanced search, comparator, multi-rename, FTP, plugins) get it from <a href="www.ghisler.com">ghisler.com</a>
@@ -72,6 +72,11 @@ Author
 - Author of the original Chinese version is linxinhong <a href="https://github.com/linxinhong">https://github.com/linxinhong</a> 
 - Translator and maintainer of the English version is magicstep <a href="https://github.com/magicstep">https://github.com/magicstep</a> 
   Alternatively you can contact me with the same nickname @gmail.com
+
+
+Links
+=====
+- <a href="WhatsNew.md">WhatsNew.md</a>
 - More info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
 
 
