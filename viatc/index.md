@@ -76,8 +76,9 @@ Author
 
 Links
 =====
-- <a href="WhatsNew.md">WhatsNew.md</a>
+- Versions log <a href="WhatsNew">WhatsNew</a>
 - More info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
+- My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> 
 
 
-<sub> My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> 
+<!--<sub> My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> -->
