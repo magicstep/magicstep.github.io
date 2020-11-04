@@ -2,7 +2,7 @@ TcFullScreen.exe
 =================
 The following TcFullScreen.exe file is not mine and I cannot find it anywhere to give credit to.
 <A href="TcFullScreen.zip" >TcFullScreen.zip</a> size: 22Kb<br>  
-This exe works as an addition to "Total Commander", you can map it in TC as a shortcut, or if you put TcFullScreen.exe in ViATc folder it's already mapped like this:   <br>  
+This exe works as an addition to "Total Commander" = TC. You can map it in TC as a shortcut, or if you put TcFullScreen.exe in ViATc folder, then it's already mapped in viatc.ini file to F11 and like this:   <br>  
 ,s=&lt;TCFullScreenWithExePlugin&gt;
 
 
