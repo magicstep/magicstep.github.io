@@ -1,9 +1,3 @@
-ViATc
-=====
-ViATc - Vim mode at Total Commander  
-- Project's easy website <a href="https://magicstep.github.io/viatc">https://magicstep.github.io/viatc</a>
-- Full project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
-
 TcFullScreen.exe 
 =================
 The following TcFullScreen.exe file is not mine and I cannot find it anywhere to give credit to.
@@ -12,4 +6,9 @@ This exe works as an addition to "Total Commander", you can map it in TC as a sh
 ,s=&lt;TCFullScreenWithExePlugin&gt;
 
 
+ViATc
+=====
+ViATc - Vim mode at Total Commander  
+- Project's easy website <a href="https://magicstep.github.io/viatc">https://magicstep.github.io/viatc</a>
+- Full project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
 
