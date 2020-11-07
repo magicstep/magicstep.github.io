@@ -1,3 +1,10 @@
+2020/11/07  version 0.5.5en beta 23
+- more support for TC 32bit
+
+2020/11/04  version 0.5.5en beta 22
+- F11 is FullScren 
+- IrfanView jk movements, 
+- ScrollLock in IrfanView or TC will traverse folders with images
  
 2020/11/02  version 0.5.5en beta 21
 - Smarter "Fancy Rename", few more commands
@@ -7,5 +14,6 @@
 2020/11/01  version 0.5.5en beta 20
 - Fixed the "Fancy Rename" look and "history_of_rename.txt" Browse button
 - Smarter search for the TC executable and wincmd.ini
-- Created this "Whatsnew.txt" file
+- Created this "WhatsNew.txt" file
+
 
