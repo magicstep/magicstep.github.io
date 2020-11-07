@@ -1,5 +1,6 @@
 2020/11/07  version 0.5.5en beta 23
 - more support for TC 32bit
+- dark mode support. Toggle it by Vmt
 
 2020/11/04  version 0.5.5en beta 22
 - F11 is FullScren 
