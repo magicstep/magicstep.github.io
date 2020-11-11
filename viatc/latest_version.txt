@@ -1,5 +1,5 @@
 Latest script:
-0.5.5en beta 24
+0.5.5en beta 25
 
 Latest executable:
-ViATc-0.5.5en_beta24_executable
+0.5.5en beta 24 Compiled Executable
