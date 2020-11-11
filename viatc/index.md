@@ -1,7 +1,7 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2020/11/07  version 0.5.5en beta 23  
+2020/11/10  version 0.5.5en beta 24  
 
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
@@ -18,8 +18,8 @@ What ViATc does to Total Commander (called later TC):
 
 Download
 ========
-2020/11/01  version 0.5.5en beta 20  
-<a href="ViATc-0.5.5en_beta20_executable.zip">ViATc-0.5.5en_beta20_executable.zip</a><br>
+2020/11/10  version 0.5.5en beta 24  
+<a href="ViATc-0.5.5en_beta24_executable.zip">ViATc-0.5.5en_beta24_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a> 
@@ -78,8 +78,8 @@ Author
 Links
 =====
 - Version log <a href="WhatsNew">WhatsNew</a>
-- More info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
-- My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> 
+- More technical info about the project at <a href="https://github.com/magicstep/ViATc-English">https://github.com/magicstep/ViATc-English</a>   
+- My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a> 
 
 
 <!--<sub> My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> -->
