@@ -1,7 +1,7 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2020/11/14  version 0.5.5en beta 26  
+2020/11/23  version 0.5.5en beta 27  
 
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
@@ -22,7 +22,7 @@ Download
 <a href="ViATc-0.5.5en_beta24_executable.zip">ViATc-0.5.5en_beta24_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
-- 2020/11/14  version 0.5.5en beta 26  
+- 2020/11/23  version 0.5.5en beta 27  
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a> 
 
 - Old versions at <a href="https://magicstep.github.io/viatc/old.html">https://magicstep.github.io/viatc/old.html</a> 
