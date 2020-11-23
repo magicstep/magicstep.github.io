@@ -1,17 +1,20 @@
+2020/11/23  version 0.5.5en beta 27
+- Improved marks
+
 2020/11/14  version 0.5.5en beta 26
-- added option to backup and edit wincmd.ini, button in the Settings>Misc 
-- added "Check for updates" option, button in the Settings>Misc 
-- added "Restore the last overwritten mark" option, mapped to:  a'
-- improved the IrfanView support, added abort with long ScrollLock press
+- Added option to backup and edit wincmd.ini, button in the Settings>Misc 
+- Added "Check for updates" option, button in the Settings>Misc 
+- Added "Restore the last overwritten mark" option, mapped to:  a'
+- Improved the IrfanView support, added abort with long ScrollLock press
 
 2020/11/07  version 0.5.5en beta 23
-- more support for TC 32bit
-- dark mode support. Toggle it by Vmt
+- More support for TC 32bit
+- Dark mode support. Toggle it by Vmt
 
 2020/11/04  version 0.5.5en beta 22
-- F11 is FullScren, configurable 
-- IrfanView jk movements, 
-- ScrollLock in IrfanView or TC will traverse folders with images
+- F11 is FullScreen, configurable 
+- IrfanView jk movements 
+- ScrollLock in IrfanView or TC will traverse TC folders with images
  
 2020/11/02  version 0.5.5en beta 21
 - Smarter "Fancy Rename", few more commands
