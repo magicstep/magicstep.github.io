@@ -19,9 +19,10 @@ What ViATc does to Total Commander (called later TC):
 Download
 ========
 - 2020/11/27  version 0.5.5en beta 28  
-To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a> 
+To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
+You need Autohotkey from <a href="https://autohotkey.com">autohotkey.com</a>
 
-- 2020/11/27  version 0.5.5en beta 28  
+- 2020/11/27  version 0.5.5en beta 28 executable 
 <a href="ViATc-0.5.5en_beta28_executable.zip">ViATc-0.5.5en_beta28_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
@@ -32,7 +33,7 @@ The zip file contains a script and exe file. I promise that the exe file is clea
 Installation
 ============
 - After downloading ViATc, extract, put it in any location and use it.  
-- You can run the script if you have Autohotkey installed. Download and install Autohotkey, it is powerful for many purposes. https://autohotkey.com  
+- You can run the script if you have Autohotkey installed. Download and install Autohotkey, it is powerful for many purposes. <a href="https://autohotkey.com">autohotkey.com</a>
 - Run ViATc and look for a new icon in the tray, right-click on it and choose Help or Settings to get accustomed to the shortcuts.
 
 Settings
@@ -85,4 +86,5 @@ Links
 - My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a> 
 
 
+[//]: # (comment test)
 <!--<sub> My personal blog: <a href="https://overstep.wordpress.com/">overstep.wordpress.com</a></sub> -->
