@@ -1,3 +1,7 @@
+        
+2021/01/27  version 0.5.5en beta 30
+- You can remap four special characters in viatc.ini file: space ; = [  
+
 2020/11/23  version 0.5.5en beta 27
 - Improved marks
 
