@@ -1,4 +1,6 @@
-        
+2021/01/29  version 0.5.5en beta 31
+- user.ahk is for your custom commands, mappings and any additions to the ViATc
+         
 2021/01/27  version 0.5.5en beta 30
 - You can remap four special characters in viatc.ini file: space ; = [  
 
