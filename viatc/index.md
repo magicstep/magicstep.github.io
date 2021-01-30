@@ -1,7 +1,7 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2021/01/27  version 0.5.5en beta 30
+2021/01/27  version 0.5.5en beta 30  
 
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
@@ -18,7 +18,7 @@ What ViATc does to Total Commander (called later TC):
 
 Download
 ========
-- 2021/01/27  version 0.5.5en beta 30
+- 2021/01/29  version 0.5.5en beta 31
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
 You need Autohotkey from <a href="https://autohotkey.com">autohotkey.com</a>
 
