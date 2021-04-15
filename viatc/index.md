@@ -1,7 +1,7 @@
 ViATc
 =====
 ViATc - Vim mode at Total Commander  
-2021/01/29  version 0.5.5en beta 31  
+2021/04/15  version 0.5.5en
 
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
@@ -18,12 +18,12 @@ What ViATc does to Total Commander (called later TC):
 
 Download
 ========
-- 2021/01/29  version 0.5.5en beta 31
+- 2021/04/15  version 0.5.5en
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
 You need Autohotkey from <a href="https://autohotkey.com">autohotkey.com</a>
 
-- 2021/01/27  version 0.5.5en beta 30 executable
-<a href="https://magicstep.github.io/viatc/ViATc-0.5.5en_beta30_executable.zip">ViATc-0.5.5en_beta30_executable.zip</a><br>
+- 2021/04/15  version 0.5.5en executable
+<a href="https://magicstep.github.io/viatc/ViATc-0.5.5en_executable.zip">ViATc-0.5.5en_executable.zip</a><br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
 - Old versions at <a href="https://magicstep.github.io/viatc/old.html">https://magicstep.github.io/viatc/old.html</a> 

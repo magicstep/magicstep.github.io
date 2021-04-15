@@ -1,5 +1,5 @@
 Latest script:
-0.5.5en beta 31
+0.5.5en
 
 Latest executable:
-0.5.5en beta 30 Compiled Executable
+0.5.5en Compiled Executable
