@@ -18,12 +18,12 @@ What ViATc does to Total Commander (called later TC):
 
 Download
 ========
-- 2021/04/15  version 0.5.5en
+- 2021/05/05  version 0.5.5en  
 To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
 You need Autohotkey from <a href="https://autohotkey.com">autohotkey.com</a>
 
 - 2021/04/15  version 0.5.5en executable
-<a href="https://magicstep.github.io/viatc/ViATc-0.5.5en_executable.zip">ViATc-0.5.5en_executable.zip</a><br>
+<a href="https://magicstep.github.io/viatc/ViATc-0.5.5en_executable.zip">ViATc-0.5.5en_executable.zip</a> <br>
 The zip file contains a script and exe file. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception. The script choice is recommended anyway.   
 
 - Old versions at <a href="https://magicstep.github.io/viatc/old.html">https://magicstep.github.io/viatc/old.html</a> 
@@ -67,8 +67,8 @@ ma = mark a
 sm = show mappings from ini file  
 gg = go top  
 G  = go bottom  
-r  = rename with a fancy vim emulator,   
-shift+r  = simple rename, same as Shift+F6  
+r  = simple rename, same as Shift+F6  
+Shift+r  = fancy rename with a vim emulator  
 Ctrl+[   = Esc  
 Capslock = Esc  
 
