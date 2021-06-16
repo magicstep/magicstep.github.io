@@ -19,7 +19,8 @@ What ViATc does to Total Commander (called later TC):
 Download
 ========
 - 2021/05/29  version 0.5.5.1  
-To get the most recent script (without exe), download <a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
+To get the most recent script (without exe), download  
+<a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
 You need Autohotkey from <a href="https://autohotkey.com">autohotkey.com</a>
 
 - 2021/05/29  version 0.5.5.1 executable
