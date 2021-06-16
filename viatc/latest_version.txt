@@ -2,4 +2,4 @@ Latest script:
 0.5.5.1
 
 Latest executable:
-0.5.5en Compiled Executable
+0.5.5.1 Compiled Executable
