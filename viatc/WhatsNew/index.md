@@ -1,5 +1,5 @@
 2021/10/15  version 0.5.5.2
-- ability to disable the built-in commands, do it in viatc.ini
+- ability to disable the built-in combo hotkeys, do it in viatc.ini
 
 2021/01/29  version 0.5.5en beta 31
 - user.ahk is for your custom commands, mappings and any additions to the ViATc
