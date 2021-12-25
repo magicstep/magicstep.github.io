@@ -4,13 +4,14 @@ ViATc - Vim mode at Total Commander
 2021/12/19  version 0.5.5.4  
 ![viatc_logo credit: https://github.com/linxinhong](https://magicstep.github.io/viatc/viatc_logo.jpg?raw=true "viatc_logo")  
 <sub>image credit: <A href="https://github.com/linxinhong" target="_blank">https://github.com/linxinhong</a></sub><br>  
-This software works on Windows as an addition to "Total Commander"  :floppy_disk: - the greatest file manager :100: (keyboard friendly, two panels, advanced search, comparator, multi-rename, FTP, plugins) get it from www.ghisler.com  
+This software works on Windows as an addition to "Total Commander" - the greatest file manager (keyboard friendly, two panels, advanced search, comparator, multi-rename, FTP, plugins) get it from <a taraget="_blank" href="https://www.ghisler.com">ghisler.com</a>
+ViATc tries to resemble the work-flow of Vim and web browser plugins like Vimium or better yet SurfingKeys.
 ViATc tries to resemble the work-flow of Vim and web browser plugins like Vimium or better yet SurfingKeys.
 
 What ViATc does to Total Commander (called later TC):
 - it's only a separate addition, easily disabled, it doesn't modify TC
 - adds more shortcuts, you can add and reconfigure them
-- adds more functionality - supports all that AutoHotkey does, not just TC
+- adds more functionality - supports all that AutoHotkey does, not just TC  
 
 ![image credit: https://www.itqiyi.com/archives/2073](https://magicstep.github.io/viatc/viatc=Vim(AHK)TC.png?raw=true "viatc_logo")  
 <sub> image credit: https://www.itqiyi.com/archives/2073  </sub>
@@ -18,17 +19,20 @@ What ViATc does to Total Commander (called later TC):
 Download
 ========
 To get the most recent script (without exe), download  
-https://github.com/magicstep/ViATc-English/archive/master.zip  
+<a href="https://github.com/magicstep/ViATc-English/archive/master.zip">https://github.com/magicstep/ViATc-English/archive/master.zip</a>  
+You need Autohotkey from <a href="https://autohotkey.com">autohotkey.com</a>
 
 The below zip file contains an exe file, very likely it is older than the above script. I promise that the exe file is clean, however compiled AHK scripts trigger antiviruses so you might have to add an exception.   
 <a href="https://magicstep.github.io/viatc/ViATc-0.5.5.4_executable.zip">ViATc-0.5.5.4_executable.zip</a> 2021/12/19  <br>
 
-Yet older versions at https://magicstep.github.io/viatc/old.html  
+- Old versions at <a href="https://magicstep.github.io/viatc/old.html">https://magicstep.github.io/viatc/old.html</a> 
+
+- Version log <a href="WhatsNew">WhatsNew</a>
 
 Installation
 ============
 - After downloading ViATc, extract, put it in any location and use it.  
-- You can run the script if you have Autohotkey installed. Download and install Autohotkey, it is powerful for many purposes. https://autohotkey.com  
+- You can run the script if you have Autohotkey installed. Download and install Autohotkey, it is powerful for many purposes.  <a href="https://autohotkey.com">autohotkey.com</a>
 - Run ViATc and look for a new icon in the tray, right-click on it and choose Help or Settings to get accustomed to the shortcuts.
 
 Settings
