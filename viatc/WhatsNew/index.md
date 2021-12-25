@@ -1,3 +1,6 @@
+2021/12/19  version 0.5.5.4  
+- Added all missing TC commands, code improved - all thanks to user uqqu
+
 2021/10/15  version 0.5.5.2
 - ability to disable the built-in combo hotkeys, do it in viatc.ini
 
